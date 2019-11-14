@@ -1,10 +1,11 @@
 
 # @BrunoMon/helpers
 
-![npm](https://img.shields.io/npm/v/@brunomon/nano-input)
-![GitHub issues](https://img.shields.io/github/issues/brunomon/nano-input)
-![GitHub](https://img.shields.io/npm/l/@brunomon/nano-input)
-![GitHub forks](https://img.shields.io/github/forks/brunomon/nano-input?style=flat-square)
+![npm](https://img.shields.io/npm/v/@brunomon/helpers)
+![GitHub issues](https://img.shields.io/github/issues/brunomon/helpers)
+![GitHub forks](https://img.shields.io/github/forks/brunomon/helpers?style=flat-square)
+
+
 
 
 ## Install
