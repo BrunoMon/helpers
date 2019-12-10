@@ -40,7 +40,7 @@ export const connect = (store, ...paths) => (baseElement) => class extends baseE
                 change = previousState != this.__currentStates[i]
             }
             if (change) {
-                this.stateChanged(state, i, paths[i])
+                this.stateChanged(state, paths[i])
             }
         }
     }
