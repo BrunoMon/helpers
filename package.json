@@ -1,15 +1,15 @@
 {
     "name": "@brunomon/helpers",
-    "version": "3.0.0",
+    "version": "3.1.1",
     "description": "helper functions",
     "license": "MIT",
     "repository": "brunomon/helpers",
     "main": "index.js",
     "keywords": [
-      "javascript",
-      "lit-element",
-      "npm",
-      "package",
-      "brunomon"
+        "javascript",
+        "lit-element",
+        "npm",
+        "package",
+        "brunomon"
     ]
-  }
+}
